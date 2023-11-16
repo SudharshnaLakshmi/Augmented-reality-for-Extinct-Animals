@@ -12,7 +12,7 @@ The Aim of the project is to develop an Android-based application that showcases
  2. VUFORIA QUALCOMM(latest version) installation for project development.
 
 ## Flow chart
-![](FLOWCHART.png)
+[![](FLOWCHART.png)](https://github.com/SudharshnaLakshmi/Augmented-reality-for-Extinct-Animals/blob/main/FLOWCHART.png)
 ## Installation
   ### 1.Clone the repository:
   ```
