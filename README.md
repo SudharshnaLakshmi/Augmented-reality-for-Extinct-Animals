@@ -108,7 +108,7 @@ public class animalcontroller : MonoBehaviour
 
 
 ### AR image of Marker1:
-![](MARKER1 OUTPUT.jpg)
+![](MARKER1OUTPUT.jpg)
 
 
 ### Marker 2:
@@ -116,7 +116,7 @@ public class animalcontroller : MonoBehaviour
 
 
 ### AR image of Marker2:
-![](MARKER2 OUTPUT.jpg)
+![](MARKER2OUTPUT.jpg)
 
 
 
