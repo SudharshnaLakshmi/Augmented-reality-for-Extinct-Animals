@@ -12,11 +12,12 @@ The Aim of the project is to develop an Android-based application that showcases
  2. VUFORIA QUALCOMM(latest version) installation for project development.
 
 ## Flow chart
-
+![](FLOWCHART.png)
 ## Installation
   ### 1.Clone the repository:
+  ```
    https://github.com/SudharshnaLakshmi/Augmented-reality-for-Extinct-Animals.git
-   
+  ```
   ### 2.Install the required packages
   
   1. Unity package
@@ -103,24 +104,19 @@ public class animalcontroller : MonoBehaviour
 ```
 ## Output:
 ### Marker 1:
-
-
-
-
-### Marker 2:
-
-
+![](MARKER1.jpg)
 
 
 ### AR image of Marker1:
+![](MARKER1 OUTPUT.jpg)
 
 
+### Marker 2:
+![](MARKER2.jpg)
 
 
 ### AR image of Marker2:
-
-
-
+![](MARKER2 OUTPUT.jpg)
 
 
 
