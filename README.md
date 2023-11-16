@@ -112,7 +112,7 @@ public class animalcontroller : MonoBehaviour
 
 
 ### Marker 2:
-![](MARKER2.jpg)
+![](MARKER2.JPG)
 
 
 ### AR image of Marker2:
